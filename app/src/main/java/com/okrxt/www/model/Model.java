@@ -54,7 +54,7 @@ public class Model {
                         super.onNext(responseBody);
                         try {
                             String string = responseBody.string();
-                            Bean bean = new Gson().fromJson(string, Bean.class);
+                            Bean bean = gson.fromJson(string, Bean.class);
                             EventBus.getDefault().post(bean);
                         } catch (IOException e) {
                             e.printStackTrace();
