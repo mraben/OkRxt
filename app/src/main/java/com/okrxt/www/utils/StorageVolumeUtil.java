@@ -22,9 +22,6 @@ import java.util.List;
 
 /**
  * Description: 存储设备列表详细信息
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class StorageVolumeUtil {

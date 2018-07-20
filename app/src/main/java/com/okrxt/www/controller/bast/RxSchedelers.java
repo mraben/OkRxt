@@ -6,9 +6,6 @@ import rx.Subscriber;
 
 /**
  * Description: 自定义Subscriber
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 15:12 *
  */
 
 public class RxSchedelers<T> extends Subscriber<T> {

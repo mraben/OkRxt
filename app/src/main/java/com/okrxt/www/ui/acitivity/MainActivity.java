@@ -16,9 +16,6 @@ import butterknife.OnClick;
 
 /**
  * Description:
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class MainActivity extends BaseActivity {

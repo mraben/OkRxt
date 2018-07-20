@@ -16,9 +16,6 @@ import rx.schedulers.Schedulers;
 
 /**
  * Description: 处理请求
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 public class Model {
     private static Model model;

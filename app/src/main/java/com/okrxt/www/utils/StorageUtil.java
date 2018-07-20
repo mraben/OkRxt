@@ -17,9 +17,6 @@ import java.util.List;
 
 /**
  * Description: sd卡、ram、rom 存储内工具
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class StorageUtil {

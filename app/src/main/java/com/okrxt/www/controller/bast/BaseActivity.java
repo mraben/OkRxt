@@ -11,9 +11,6 @@ import butterknife.ButterKnife;
 
 /**
  * Description: Activity基类
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/9/27
  */
 
 public abstract class BaseActivity extends AppCompatActivity {

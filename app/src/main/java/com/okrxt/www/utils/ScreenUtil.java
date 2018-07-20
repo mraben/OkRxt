@@ -12,9 +12,6 @@ import android.view.Window;
 
 /**
  * Description: 屏幕工具类（状态栏、截图、width、height）
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class ScreenUtil {

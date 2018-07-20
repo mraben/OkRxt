@@ -3,9 +3,6 @@ package com.okrxt.www.utils;
 
 /**
  * Description: 字符串工具类
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public final class StringUtil {

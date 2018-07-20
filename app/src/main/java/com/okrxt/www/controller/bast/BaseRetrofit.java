@@ -22,9 +22,6 @@ import rx.android.BuildConfig;
 
 /**
  * Description: 初始化请求工具类
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 public class BaseRetrofit {
 

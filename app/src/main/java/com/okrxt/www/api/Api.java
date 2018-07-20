@@ -8,9 +8,6 @@ import rx.Observable;
 
 /**
  * Description: api接口
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/4/19.
  */
 
 public interface Api {

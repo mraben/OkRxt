@@ -18,9 +18,6 @@ import java.util.List;
 
 /**
  * Description: 获取版本、设备信息
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class DeviceUtil {

@@ -15,9 +15,6 @@ import java.util.Enumeration;
 
 /**
  * Description: 网络工具类
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 14:20 *
  */
 
 public class NetworkUtil {

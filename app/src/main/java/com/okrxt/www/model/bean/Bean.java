@@ -2,9 +2,6 @@ package com.okrxt.www.model.bean;
 
 /**
  * Description: main页面bean数据
- * Copyright  : Copyright (c) 2017
- * Author     : Young
- * Date       : 2017/10/17 15:20 *
  */
 
 public class Bean {
